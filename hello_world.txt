@@ -1,2 +1,1 @@
 I am learning new things omg
-I am testing whether this command git clone git@github.com/qwertyuiop251/git_test.com will work
